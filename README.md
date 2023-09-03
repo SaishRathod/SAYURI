@@ -17,6 +17,7 @@ Includes all the funky stuff that you expect a discord bot to do:
   <li>Return datetime of specified location</li>
   <li>Basic arithmetic operations</li>
 </ul></li></ul>
-And many more...
+
+And many more commands...
 
 
