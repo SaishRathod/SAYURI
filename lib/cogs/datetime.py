@@ -26,7 +26,7 @@ class Datetime(Cog):
 			tz = tzwhere.tzwhere()
 			timezone = (tz.tzNameAt(location.latitude, location.longitude))
 
-			datetime_url = f"https://timezoneapi.io/api/timezone/?timezone={timezone}&token=alozcHkAuzkZYfnogmxD"
+			datetime_url = f"https://timezoneapi.io/api/timezone/?timezone={timezone}&token=[ ENTER TOKEN HERE ]"
 
 			async with request("GET", datetime_url, headers = {}) as response:
 				data = await response.json()
