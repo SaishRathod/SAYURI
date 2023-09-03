@@ -7,7 +7,7 @@ Includes all the funky stuff that you expect a discord bot to do:
 <ul>
 <li>Moderation - ban, kick, warn, etc.</li>
 <li>Server logs - username change, nickname change, message delete, etc.</li>
-<li>Experience calculation and leaderboard based on user chat frequency.</li>
+<li>User chat experience calculation and leaderboard implemented using MySQL database.</li>
 <li>Command info and Help</li>
 <li>New user greeting</li>
 <li>Conduct giveaways</li>
